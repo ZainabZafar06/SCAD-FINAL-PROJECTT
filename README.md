@@ -124,6 +124,11 @@ Easy online access<br>
 Free hosting<br>
 Lightweight deployment<br>
 Works without GPU support<br>
+_**GitHub Repository:**_<br>
+https://github.com/ZainabZafar06/SCAD-FINAL-PROJECTT<br>
+
+_**Hugging Face Space:**_<br>
+https://zainabzafar06-ai-mail-detector.hf.space<br>
 
 **This project is based on the original GitHub repository by SrujanPR.**<br>
 
