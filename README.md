@@ -73,6 +73,7 @@ python app.py
 3. Open in browser:
 
 http://127.0.0.1:5000
+
 4. API Testing
 Endpoint
 POST /api/predict
@@ -82,12 +83,14 @@ Example JSON
 }
 
 **Advantages**
+
 Lightweight and fast
 Easy to use
 Works without GPU
 Simple web interface
 
 **Limitations**
+
 Uses a basic dataset
 Limited text understanding
 
