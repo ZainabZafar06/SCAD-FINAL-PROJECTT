@@ -89,20 +89,19 @@ http://127.0.0.1:5000<br>
 4. API Testing<br>
 Endpoint<br>
 POST /api/predict<br>
-Example JSON<br>
+Example<br>
+JSON<br>
 {<br>
-  "text": "Win a free iPhone now"
+  "text": "Win a free iPhone now"<br>
 }
 
-**Advantages**
-
+**Advantages**<br>
 Lightweight and fast<br>
 Easy to use<br>
 Works without GPU<br>
 Simple web interface<br>
 
 **Limitations**<br>
-
 Uses a basic dataset<br>
 Limited text understanding<br>
 
