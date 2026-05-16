@@ -1,4 +1,5 @@
 **Spam Email Classifier
+
 Project Description**
 
 This project is a lightweight AI-based web application that detects whether an email/message is Spam or Not Spam.
@@ -6,7 +7,9 @@ This project is a lightweight AI-based web application that detects whether an e
 The application is built using:
 
 Flask (Backend)
+
 HTML/CSS (Frontend)
+
 Machine Learning with Scikit-learn
 
 Users can enter a message on the webpage and get instant prediction results.
