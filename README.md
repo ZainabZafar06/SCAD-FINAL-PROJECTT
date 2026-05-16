@@ -105,6 +105,25 @@ Simple web interface<br>
 Uses a basic dataset<br>
 Limited text understanding<br>
 
+_**Deployment**_<br>
+**GitHub Repository**<br>
+The complete project source code is uploaded to GitHub.<br>
+
+**Hugging Face Deployment**<br>
+
+The web application is deployed on Hugging Face Spaces for online access and testing.<br>
+
+The deployment uses:<br>
+
+Flask<br>
+Lightweight Machine Learning model<br>
+CPU-only execution (No GPU required)<br>
+
+**Deployment Advantages**<br>
+Easy online access<br>
+Free hosting<br>
+Lightweight deployment<br>
+Works without GPU support<br>
 
 **This project is based on the original GitHub repository by SrujanPR.**<br>
 
