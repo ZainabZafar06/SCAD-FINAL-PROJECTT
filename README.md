@@ -1,6 +1,6 @@
-**Spam Email Classifier
+_**Spam Email Classifier**_
 
-Project Description**
+**Project Description**
 
 This project is a lightweight AI-based web application that detects whether an email/message is Spam or Not Spam.
 
