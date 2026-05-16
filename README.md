@@ -15,24 +15,33 @@ Machine Learning with Scikit-learn
 Users can enter a message on the webpage and get instant prediction results.
 
 **Model Information**
+
 What the Model Does
 
 The model classifies text messages into:
 
 Spam
+
 Not Spam
 
 **Model Used**
+
 Multinomial Naive Bayes
+
 CountVectorizer
 
 This is a lightweight text classification model that works without GPU support.
 
 **Input and Output**
+
 Input
+
 Email or message text
+
 Output
+
 Spam
+
 Not Spam
 
 **Features Added**
@@ -45,7 +54,7 @@ Not Spam
 6. Unit testing using unittest
 7. Error handling for empty input
 
-**Technologies Used**
+**Technologies Used**<br>
 Python
 Flask
 HTML/CSS
