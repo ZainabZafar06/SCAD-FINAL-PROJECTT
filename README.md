@@ -55,58 +55,58 @@ Not Spam
 7. Error handling for empty input
 
 **Technologies Used**<br>
-Python
-Flask
-HTML/CSS
-Scikit-learn
-Pandas
-Numpy
-Postman
+Python<br>
+Flask<br>
+HTML/CSS<br>
+Scikit-learn<br>
+Pandas<br>
+Numpy<br>
+Postman<br>
 
-**Project Structure**
-Spam-Email-Classifier/
-│
-├── templates/
-│   └── index.html
-│
-├── app.py
-├── testing.py
-├── model.ipynb
-├── requirements.txt
-├── spam.csv
-└── README.md
+**Project Structure**<br>
+Spam-Email-Classifier/<br>
+│<br>
+├── templates/<br>
+│   └── index.html<br>
+│<br>
+├── app.py<br>
+├── testing.py<br>
+├── model.ipynb<br>
+├── requirements.txt<br>
+├── spam.csv<br>
+└── README.md<br>
 
-**How to Run**
-1. Install Requirements
-pip install -r requirements.txt
-2. Run the App
-python app.py
+**How to Run**<br>
+1. Install Requirements<br>
+pip install -r requirements.txt<br>
+2. Run the App<br>
+python app.py<br>
 
-3. Open in browser:
+3. Open in browser:<br>
 
-http://127.0.0.1:5000
+http://127.0.0.1:5000<br>
 
-4. API Testing
-Endpoint
-POST /api/predict
-Example JSON
-{
+4. API Testing<br>
+Endpoint<br>
+POST /api/predict<br>
+Example JSON<br>
+{<br>
   "text": "Win a free iPhone now"
 }
 
 **Advantages**
 
-Lightweight and fast
-Easy to use
-Works without GPU
-Simple web interface
+Lightweight and fast<br>
+Easy to use<br>
+Works without GPU<br>
+Simple web interface<br>
 
-**Limitations**
+**Limitations**<br>
 
-Uses a basic dataset
-Limited text understanding
+Uses a basic dataset<br>
+Limited text understanding<br>
 
 
-**This project is based on the original GitHub repository by SrujanPR.**
+**This project is based on the original GitHub repository by SrujanPR.**<br>
 
 Additional features such as threading, unit testing, API integration, and error handling were added for academic purposes.
